@@ -179,12 +179,10 @@ Gene expression prediction from breast cancer H&amp;E whole slide images using p
   If you use this code or results in your research, please cite:
 
   @mastersthesis{author2025gene,
-    title   = {Predicción del perfil de expresión génica en cáncer de mama
-               a partir de imágenes histopatológicas mediante modelos fundacionales
-               de patología y aprendizaje múltiple de instancias},
-    author  = {<Nombre Apellido>},
-    school  = {<Universidad>},
-    year    = {2025}
+    title   = {Prediction of gene expression profile in breast cancer from histopathological images using foundational models of pathology and multiple instance learning},
+    author  = {<Marco Apolo Pulpillo Berrocal>},
+    school  = {<Universidad Politécnica de Madrid>},
+    year    = {2026}
   }
 
   ---
